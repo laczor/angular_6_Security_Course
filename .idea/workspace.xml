@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69daf61a-5640-4e1c-924b-3074b0f66968" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>values</find>
+      <find>errors</find>
+      <find>await</find>
+      <find>jwt</find>
+      <find>XSRF-TOKEN</find>
+      <find>Auth0</find>
+      <find>HttpClientXsrfModule</find>
+      <find>isLoggedIn</find>
+      <find>AuthorizationGuard</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Session_5_JWT_Introduction</dir>
+      <dir>$PROJECT_DIR$/Session_8/src</dir>
+      <dir>$PROJECT_DIR$/Session_8_JWT_Auth0</dir>
+      <dir>$PROJECT_DIR$/Session_9_RoleBasedAuth/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Session_2 - SignupService/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/Session_2 - SignupService/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/Session_2 - SignupService/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Session_2 - SignupService/src/app/signup/signup.component.ts" />
+        <option value="$PROJECT_DIR$/Session_2 - SignupService/src/app/services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/Session_2 - SignupService/server/server.ts" />
+        <option value="$PROJECT_DIR$/Session_2 - SignupService/server/read-all-lessons.route.ts" />
+        <option value="$PROJECT_DIR$/Session_3_PasswordStorage/demos/hash-salt.js" />
+        <option value="$PROJECT_DIR$/Session_4_UserSessionManagement/server/security.utils.ts" />
+        <option value="$PROJECT_DIR$/Session_4_UserSessionManagement/server/read-all-lessons.route.ts" />
+        <option value="$PROJECT_DIR$/Session_5_JWT_Introduction/demos/jwt-hs256.js" />
+        <option value="$PROJECT_DIR$/Session_5_JWT_Introduction/server/security.utils.ts" />
+        <option value="$PROJECT_DIR$/Session_5_JWT_Introduction/server/get-user.middleware.ts" />
+        <option value="$PROJECT_DIR$/Session_5_JWT_Introduction/server/get-user.route.ts" />
+        <option value="$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/server/create-user.route.ts" />
+        <option value="$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/services/auth.interceptor.ts" />
+        <option value="$PROJECT_DIR$/Session_8_JWT_Auth0/server/server.ts" />
+        <option value="$PROJECT_DIR$/Session_9_RoleBasedAuth/server/server.ts" />
+        <option value="$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/common/rbac-allow.directive.ts" />
+        <option value="$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/app.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Session_2 - SignupService/package.json" />
+      <path value="$PROJECT_DIR$/Session_3_PasswordStorage/package.json" />
+      <path value="$PROJECT_DIR$/Session_4_UserSessionManagement/package.json" />
+      <path value="$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/package.json" />
+      <path value="$PROJECT_DIR$/Session_8_JWT_Auth0/package.json" />
+      <path value="$PROJECT_DIR$/Session_9_RoleBasedAuth/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1005" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Angular_6_Security_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_6_Security_Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular_6_Security_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_6_Security_Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Session_2 - SignupService" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="guard&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69daf61a-5640-4e1c-924b-3074b0f66968" name="Default" comment="" />
+      <created>1533792373023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533792373023</updated>
+      <workItem from="1533792374666" duration="7836000" />
+      <workItem from="1539064862653" duration="3218000" />
+      <workItem from="1539107662890" duration="5435000" />
+      <workItem from="1539153414855" duration="599000" />
+      <workItem from="1539156834727" duration="619000" />
+      <workItem from="1539322044080" duration="521000" />
+      <workItem from="1539421543665" duration="12526000" />
+      <workItem from="1539451327808" duration="5641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36395000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17606747" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007907" side_tool="true" weight="0.4973822" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49920928" visible="true" weight="0.36745688" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3583691" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49920928" visible="true" weight="0.13038793" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007907" side_tool="true" weight="0.4973822" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Session_4_UserSessionManagement/src/app/services/auth.service.ts</url>
+          <line>1</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/demos/jwt-hs256.js" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/demos/jwt-rs256.js" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/login.route.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/demos/jwt-check-rs256.js" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/security.utils.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/create-user.route.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/database.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/get-user.middleware.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/get-user.route.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/auth.middleware.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_5_JWT_Introduction/server/server.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_4_UserSessionManagement/server/create-user.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/csrf/email.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/csrf/csrf-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/server/csrf.middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/server/security.utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/server/create-user.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_5_6_7_JWT_CSRF/server/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/routes.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/services/authorization.guard.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/signup/signup.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/server/create-user.route.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/server/csrf.middleware.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/server/xss-server.ts" />
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/demos/url.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="748" selection-start-line="8" selection-start-column="748" selection-end-line="8" selection-end-column="748" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/server/database.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/server/read-all-lessons.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/services/lessons.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/services/auth.interceptor.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#2#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/src/app/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/server/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_8_JWT_Auth0/server/user-info.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/demos/xss.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/safe-database-data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/database-data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/security.utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="22" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/authentication.middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/get-user.middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/login-as-user.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/login.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/server/authorization.middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/common/rbac-allow.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" selection-start-line="9" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="48" selection-start-line="48" selection-end-line="62" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/services/authorization.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_9_RoleBasedAuth/src/app/routes.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
